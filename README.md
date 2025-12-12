@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋+,+I'm+Aayush+Dubey+;Welcome+to+my+github+profile!!;Thanks+for+Visiting+(◑‿◐))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋+,+I'm+Akshat+Sharma+;Welcome+to+my+github+profile!!;Thanks+for+Visiting+(◑‿◐))](https://git.io/typing-svg)
   
 </div>
 
@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aayushd88123029"><img src="https://www.cdnlogo.com/logos/t/96/twitter-icon.svg" height="30" width="40"></a>
+<a href="https://x.com/akshat_drizzy?s=21><img src="https://www.cdnlogo.com/logos/t/96/twitter-icon.svg" height="30" width="40"></a>
 <a href="https://www.linkedin.com/in/akshat-sharma-9a1737178/"><img src="https://www.cdnlogo.com/logos/l/15/linkedin-2013.svg" height="30" width="40"></a>
 <a href="https://www.facebook.com/profile.php?id=100038305689085"><img src="https://www.cdnlogo.com/logos/f/3/facebook.svg" height="30" width="40"></a>
 <a href="https://www.instagram.com/akshatplays___?igsh=NHZ4aXlhejc2MHFl&utm_source=qr"><img src="https://www.cdnlogo.com/logos/i/92/instagram.svg" height="30" width="40"></a>
