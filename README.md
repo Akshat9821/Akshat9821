@@ -10,7 +10,7 @@
 <img align="right" alt="coding" width="430" src="https://www.lambdatest.com/resources/images/news24.gif"/>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=akshatsharma&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Akshat9821&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 - 🌱 I’m currently learning **Vue.js**  
@@ -54,20 +54,26 @@
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; justify-content: center;">
+<div style="display:flex; gap:20px; flex-wrap:wrap; justify-content:center; align-items:center;">
 
-<p>
-  <img height="195" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshatsharma&show_icons=true&locale=en&layout=compact" />
-</p>
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Akshat9821&show_icons=true&include_all_commits=true&count_private=true" 
+    alt="Akshat9821 GitHub Stats"
+    width="420" />
 
-<p>
-  <img height="195" width="400" src="https://github-readme-stats.vercel.app/api?username=akshatsharma&show_icons=true&locale=en" />
-</p>
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat9821&layout=compact" 
+    alt="Top Languages"
+    width="420" />
 
 </div>
 
-<br/><br/>
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatsharma" alt="streak stats"/>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Akshat9821" 
+    alt="GitHub Streak Stats" />
 </div>
