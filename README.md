@@ -50,8 +50,3 @@
 
 <br/><br/><br/>
 
-
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Akshat9821" 
-    alt="GitHub Streak Stats" />
-</div>
