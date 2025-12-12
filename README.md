@@ -50,29 +50,7 @@
 
 <br/><br/><br/>
 
----
 
-## 📊 GitHub Stats
-
-<div style="display:flex; gap:20px; flex-wrap:wrap; justify-content:center; align-items:center;">
-
-  <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Akshat9821&show_icons=true&include_all_commits=true&count_private=true" 
-    alt="Akshat9821 GitHub Stats"
-    width="420" />
-
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat9821&layout=compact" 
-    alt="Top Languages"
-    width="420" />
-
-</div>
-
-<br/>
-
-<div align="center">
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=Akshat9821" 
     alt="GitHub Streak Stats" />
