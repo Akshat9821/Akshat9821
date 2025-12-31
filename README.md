@@ -5,7 +5,7 @@
 </div>
 
 <h2 align="center">More Projects Are Always On The Way — Your Presence Is Appreciated! 🚀</h2>
-<h3 align="center">A passionate Full Stack Web Developer, Software Engineer, and Machine Learning enthusiast.</h3>
+<h3 align="center">A Passionate Full Stack Web Developer, Software Engineer, and Machine Learning Enthusiast.</h3>
 
 <img align="right" alt="coding" width="430" src="https://www.lambdatest.com/resources/images/news24.gif"/>
 
