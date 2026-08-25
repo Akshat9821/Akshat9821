@@ -17,29 +17,28 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```yaml
 name: Akshat Sharma
 role: Full Stack Developer & Software Engineer
 location: India
+
 focus:
   - Full Stack Web Development
   - Software Engineering
-  - Mobile Application Development
+  - Mobile App Development
   - AI & Machine Learning
-  - Building Scalable Digital Products
+  - Scalable Digital Products
 
 currently_working_on:
   - Full-stack web applications
   - Mobile applications
   - AI-powered products
-  - Building new projects and digital solutions
+  - New digital solutions
 
 currently_learning:
   - Vue.js
-
-philosophy: "Turn ideas into scalable products and keep learning every day."
 ```
 
 <br clear="right"/>
@@ -64,9 +63,9 @@ philosophy: "Turn ideas into scalable products and keep learning every day."
 **Development Focus:**
 
 ```text
-Modern Web Applications • Responsive User Interfaces • REST APIs
-Frontend Architecture • Backend Development • Scalable Applications
-Authentication • API Integration • Product Development
+Modern Web Applications • Responsive Interfaces • REST APIs
+Frontend Development • Backend Development • Scalable Products
+Authentication • API Integration • Product Engineering
 ```
 
 ---
@@ -75,7 +74,7 @@ Authentication • API Integration • Product Development
 
 <p align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="65" height="65">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="65" height="65" />
 </p>
 
 **Areas of Interest:**
@@ -111,7 +110,7 @@ Authentication • API Integration • Product Development
 <p align="center">
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="65" height="65" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="65" height="65" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="65" height="65" />
 </p>
 
 ### ⚙️ Backend & APIs
@@ -147,21 +146,35 @@ Authentication • API Integration • Product Development
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akshat9821&show_icons=true&theme=react&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&border_color=00D9FF"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Akshat9821&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF"
+  height="180"
+/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat9821&layout=compact&langs_count=8&theme=react&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_color=00D9FF"/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat9821&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=FFFFFF"
+  height="180"
+/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshat9821&theme=react&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&border=00D9FF" alt="GitHub Streak" />
+<img
+  src="https://streak-stats.demolab.com?user=Akshat9821&theme=transparent&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"
+  alt="GitHub Streak"
+/>
 
 </div>
 
+<br>
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshat9821&custom_title=Akshat%20Sharma's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&title_color=00D9FF&area=true" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Akshat9821&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true"
+  alt="Contribution Graph"
+/>
 
 </div>
 
@@ -169,34 +182,33 @@ Authentication • API Integration • Product Development
 
 ## 🎯 Current Focus & Learning Journey
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img
+  align="right"
+  alt="Coding"
+  width="350"
+  src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"
+/>
 
 ```python
 class AkshatSharma:
 
-    def __init__(self):
-        self.role = "Full Stack Developer & Software Engineer"
+    role = "Full Stack Developer"
 
-        self.current_projects = [
-            "💻 Building scalable full-stack applications",
-            "📱 Developing modern mobile applications",
-            "🤖 Exploring AI-powered products",
-            "🚀 Turning ideas into real-world digital solutions"
-        ]
+    currently_building = [
+        "Full-stack applications",
+        "Mobile applications",
+        "AI-powered products",
+        "Digital solutions"
+    ]
 
-        self.learning_path = {
-            "frontend": ["Vue.js", "Modern UI Architecture"],
-            "backend": ["Scalable APIs", "System Design"],
-            "ai": ["Machine Learning", "AI Integrations"],
-            "engineering": ["Performance", "Scalability"]
-        }
+    currently_learning = [
+        "Vue.js",
+        "System Design",
+        "Machine Learning"
+    ]
 
     def philosophy(self):
-        return """
-        Great software starts with an idea,
-        but becomes valuable through execution.
-        Build. Learn. Improve. Repeat.
-        """
+        return "Build. Learn. Improve. Repeat."
 ```
 
 <br clear="right"/>
@@ -250,4 +262,65 @@ class AkshatSharma:
 </a>
 
 <a href="https://github.com/Akshat9821">
-  <
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="mailto:writetoakshat981@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://x.com/akshat_drizzy?s=21">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
+
+<a href="https://www.instagram.com/akshatplays___">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+### 💬 Open to:
+
+```text
+💻 Development Collaboration   |   🤖 AI & ML Projects
+🚀 Building New Products       |   💼 Interesting Opportunities
+🧠 Knowledge Sharing           |   🤝 Networking & Collaboration
+```
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+<div align="center">
+
+### 💭 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😄 Tech Humor
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&hideBorder)
+
+---
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akshat9821/Akshat9821/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akshat9821/Akshat9821/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Akshat9821/Akshat9821/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+### 🌟 Thanks for visiting! Let's build something amazing together! 🚀
+
+**Made with ❤️, ☕, and lots of code by Akshat Sharma**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="200">
+
+</div>
